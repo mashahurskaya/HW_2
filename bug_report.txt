@@ -1,0 +1,16 @@
+﻿ID: 1.
+Title: Mobile version, DE: При переходе на  страницу Produkte/Entdecken Sie Pro Trading верстка таблицы сдвинута по правому краю, текст выходит за границы экрана.
+Environment: Xiaomi Mi A2, Android 9, Chrome 105.0.5.
+Steps: 1.  Зайти на сайт ****
+       2. Выбрать немецкий язык DE
+       3. Выбрать в бургер меню вкладку "Produkte", "Entdecken Sie Pro Trading"
+       4. Скролить страницу вниз до раздела " Reichtum und/oder Erfahrung
+       5.Сдвинуть текст влево.
+Expected result: Верстка ломается при скроллинге.
+Actual result: Все блоки страницы имеют одинаковую ширину.
+Status: Failed.
+Author: MashaHursakya.
+Severity: Major.
+Priority: Medium.
+Attachment: video.
+
